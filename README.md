@@ -1,2 +1,2 @@
 # DinnerAdmin
-Связанные проекты: https://github.com/iymtee/DinnerAdmin
+Связанные проекты: https://github.com/iymtee/Dinner
